@@ -67,3 +67,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # simple-react-solutions
+
+This application shows the text value in p tags (which stays in different component) entered by the user.
+
+Passing a username to other Component via props and displaying it there.
+Adding state to the App component and passing the username to the component which is userOutput component.
+
+Adding a method to manipulate the state.
+
+Passing the event-handler method reference to the input text component and bind it to the input-change event.
+
+Ensuring that the new input entered by the user overwrites the old username passed to other component.
+
+
+
